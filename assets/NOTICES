@@ -1685,6 +1685,7 @@ limitations under the License.
 --------------------------------------------------------------------------------
 bloc
 flutter_bloc
+mocktail
 
 The MIT License (MIT)
 Copyright (c) 2024 Felix Angelov
